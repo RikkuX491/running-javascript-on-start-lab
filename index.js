@@ -37,15 +37,15 @@ const pets = [
 ];
 
 function updateDOMElements(){
-    // Your code goes here
+    // Write your solution code for Task # 2 here!
 }
 
 function displayPetDetails(pet){
-    // Your code goes here
+    // Write your solution code for Task # 3 here!
 }
 
 function addPetImageToPetsDiv(pet){
-     // Your code goes here
+     // Write your solution code for Task # 4 here!
 }
 
-// Your code goes here
+// Write your solution code for Task # 1 here!
